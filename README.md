@@ -18,3 +18,7 @@ but not an officially supported LegalOn Technologies product.
 
 Licensed under Apache License, Version 2.0
 ([LICENSE-APACHE](./LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0).
+
+## Credits
+
+Portions of this software are ported from https://github.com/hppRC/simple-simcse.
