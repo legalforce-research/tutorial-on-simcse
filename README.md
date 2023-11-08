@@ -7,7 +7,7 @@ This repository provides a tutorial notebook on how to implement SimCSE:
 
 The notebook is described in the following blog post:
 
-> 社内勉強会で使用したSimCSEのチュートリアル資料を公開しました. LegalOn Technologies Engineering Blog. 2023-XX-XX.
+> 社内勉強会で使用したSimCSEのチュートリアル資料を公開しました. LegalOn Technologies Engineering Blog. 2023-11-09.
 
 ## Disclaimer
 
