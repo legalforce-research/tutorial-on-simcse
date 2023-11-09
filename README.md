@@ -3,11 +3,14 @@
 This repository provides a tutorial notebook on how to implement SimCSE:
 
 > Tianyu Gao, Xingcheng Yao, and Danqi Chen.
-> [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://aclanthology.org/2021.emnlp-main.552/). EMNLP 2021.
+> [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://aclanthology.org/2021.emnlp-main.552/).
+> EMNLP 2021.
 
 The notebook is described in the following blog post:
 
-> 社内勉強会で使用したSimCSEのチュートリアル資料を公開しました. LegalOn Technologies Engineering Blog. 2023-11-09.
+> [社内勉強会で使用したSimCSEのチュートリアル資料を公開しました](https://tech.legalforce.co.jp/entry/2023/11/09/110057).
+> LegalOn Technologies Engineering Blog.
+> 2023-11-09.
 
 ## Disclaimer
 
